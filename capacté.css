@@ -5,7 +5,14 @@ body {
   margin: 0;
   background: transparent; 
   padding: 0px;    
-  width: 73%; 
+  width: 100%; 
+}
+img{
+  max-width:100%;
+  height :auto;
+}
+*{
+  box-sizing:border-radius ;
 }
     .site-header{
       position: fixed;
